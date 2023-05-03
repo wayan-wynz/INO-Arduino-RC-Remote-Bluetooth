@@ -1,4 +1,4 @@
-# Arduino-RC-Remote-Bluetooth
+# INO-Arduino-RC-Remote-Bluetooth
 RC Car/Tank menggunakan Mikorkontroler Arduino Uno. <br>
 **Catu daya menggunakan  Baterai Lipo 2S (7,4v)** 
 
